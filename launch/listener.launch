@@ -1,0 +1,3 @@
+<launch>
+  <node name="listener" pkg="bingda_prictices" type="listener" output="screen"/>
+</launch>

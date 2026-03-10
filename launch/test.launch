@@ -1,0 +1,7 @@
+<launch>
+
+<node pkg="bingda_prictices" type="talker" name="talker" output="screen" />
+
+<node pkg="bingda_prictices" type="listener.py" name="listener" output="screen" />
+
+</launch>

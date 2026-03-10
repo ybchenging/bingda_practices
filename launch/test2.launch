@@ -1,0 +1,3 @@
+<launch>
+
+<include file="$(find bingda_prictices)/launch/talker.launch" />
